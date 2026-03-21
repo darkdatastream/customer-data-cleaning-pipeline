@@ -1,4 +1,4 @@
-# Customer Data Cleaning Pipeline (Polars)
+# Customer Data Cleaning (Polars)
 
 ## Problem
 
@@ -13,7 +13,7 @@ Such data cannot be reliably used for analysis or business decisions.
 
 ## Solution
 
-This project implements a data cleaning pipeline using **Polars**.
+This project implements a data cleaning using **Polars**.
 
 It:
 - detects invalid records
